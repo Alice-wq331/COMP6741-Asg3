@@ -1,11 +1,12 @@
-# COMP6741-Asg3
-Group work for COMP6741<br>
-
+# COMP6741 Assignment 3
 Group members:<br>
-z5519242 Jangar Enkhbaatar<br>
-z5446236 Lingyue Feng<br>
-z5434112 Qi Wang<br>
-# Commmands
+- Jangar Enkhbaatar (z5519242)<br>
+- Lingyue Feng (z5446236)<br>
+- Qi Wang (z5434112)<br>
+
+## Alternative 1 - PACE challenge 2024 (Heuristics track)
+- Report (PDF)
+## Commmands
 1. For verifying results of the split algorithm on medium size graphs:<br>
 pace2024tester --test Pace2024-Testsets/medium_test_set ./code_files/split.sh
 
