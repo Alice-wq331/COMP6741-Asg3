@@ -6,6 +6,7 @@ Group members:<br>
 
 ## Alternative 1 - PACE challenge 2024 (Heuristics track)
 - Report ([PDF](https://github.com/Alice-wq331/COMP6741-Asg3/blob/main/PACE%202024%20Challenge%20Report_%20Heuristic%20Approaches%20to%20One-Sided%20Crossing%20Minimization%20(1).pdf))
+- Results ([XLSX](https://github.com/Alice-wq331/COMP6741-Asg3/blob/main/Pace%202024%20results.xlsx))
 ## Commmands
 1. For verifying results of the split algorithm on tiny & medium-size graphs:<br>
 pace2024tester --test Pace2024-Testsets/medium_test_set ./code_files/split.sh
