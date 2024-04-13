@@ -5,7 +5,7 @@ Group members:<br>
 - Qi Wang (z5434112)<br>
 
 ## Alternative 1 - PACE challenge 2024 (Heuristics track)
-- Report
+- Report 
 ## Commmands
 1. For verifying results of the split algorithm on tiny & medium-size graphs:<br>
 pace2024tester --test Pace2024-Testsets/medium_test_set ./code_files/split.sh
