@@ -11,8 +11,8 @@ Group members:<br>
 pace2024tester --test Pace2024-Testsets/medium_test_set ./code_files/split.sh
 2. For verifying results of the 10-iterative-split algorithm on tiny & medium-size graphs:<br>
 pace2024tester --test Pace2024-Testsets/medium_test_set ./code_files/split_iterative.sh
-3. Test the result and running time of split on large graphs:<br>
-run split_heuristic_public.py in local IDE
+3. Test the result and running time of iterative split on large graphs:<br>
+run split_heuristic_public.py in local IDE <br>
 p.s. In this file, we adjust the number of iterations according to the size of graph, and check wether it can finish within 5 minutes
    
 
